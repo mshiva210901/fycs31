@@ -1,4 +1,4 @@
-#Zimport all methods from tkinter module
+#import all methods from tkinter module
 
 from tkinter import *
 
